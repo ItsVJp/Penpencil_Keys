@@ -1,6 +1,6 @@
 # Repo Name
 
-This repository contains the source code for PenPencil, a Python application for getting video keys from Penpencil server .
+This repository contains the source code for PenPencil(ex:-PW), a Python application for getting video keys from Penpencil server .
 
 ## Setup
 
@@ -15,7 +15,9 @@ cd Penpencil_Keys
 
 
 3. **Install the required dependencies:**
-4. **pip install -r requirements.txt**
+4. **pip install -r requirements.txt*
+
+##Must replace 'Your_token with actual Penpencil token (PW)
 
 
 
