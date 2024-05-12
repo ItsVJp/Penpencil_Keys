@@ -17,7 +17,7 @@ cd Penpencil_Keys
 3. **Install the required dependencies:**
 4. **pip install -r requirements.txt*
 
-##Must replace 'Your_token with actual Penpencil token (PW)
+## Must replace 'Your_token' in headers with actual Penpencil token (PW)
 
 
 
