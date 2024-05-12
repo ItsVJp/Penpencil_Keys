@@ -34,7 +34,7 @@ async def get_pssh_kid(mpd_url: str, headers: dict = {}, cookies: dict = {}):
     
 class Penpencil:
     otp_url = "https://api.penpencil.xyz/v1/videos/get-otp?key="
-    penpencil_bearer = 'Your_token''
+    penpencil_bearer = 'Your_token'
 
     headers = {
         "Host": "api.penpencil.xyz",
